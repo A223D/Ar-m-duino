@@ -1,2 +1,2 @@
 # Ar-m-duino
- Arduino-based roboitic arm with a hook
+ Arduino-based robotic arm with a hook
